@@ -10,6 +10,7 @@ namespace DemoApp.Controllers
     public class HomeController : Controller
     {
         // GET: HomeController
+        //adding comments
         public ActionResult Index()
         {
             return View();
